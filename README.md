@@ -1,4 +1,4 @@
-# test_app
+# Flutter Advanced App
 
 A new Flutter project.
 
